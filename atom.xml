@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://toke.github.io/atom.xml" rel="self"/>
   <link href="http://toke.github.io/"/>
-  <updated>2014-08-05T23:03:55+02:00</updated>
+  <updated>2014-08-05T23:13:21+02:00</updated>
   <id>http://toke.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://toke.github.io/blog/2014/08/05/hello-world/"/>
+    <updated>2014-08-05T23:07:49+02:00</updated>
+    <id>http://toke.github.io/blog/2014/08/05/hello-world</id>
+    <content type="html"><![CDATA[<p>Testing Octopress for fun and profit</p>
+]]></content>
+  </entry>
   
 </feed>
